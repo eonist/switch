@@ -1,0 +1,24 @@
+Container #switchContainer{
+	padding-left:40px;
+	padding-top:40px;
+	float:left;
+	clear:left;
+	width:200px;
+	height:200px;
+}
+Switch{
+	float:left;
+	clear:left;
+	width:140px,140px,80px;
+	height:80px,80px,80px;
+	offset:0px 0px,0px 0px,0px 0px;
+	margin-left:0px,0px,0px;
+	fill:#39D149,white,white;
+	fill-alpha:1,1,1;
+	line:#DCDCDC,none,#DCDCDC;
+	line-offset-type:outside,outside,outside;
+	line-alpha:1,0,1;
+	line-thickness:2px,2px,2;
+	corner-radius:40px,40px,40px;
+	drop-shadow:none,none,drop-shadow(6px 90 #000000 0.4 7 7 0 0 false);
+}
